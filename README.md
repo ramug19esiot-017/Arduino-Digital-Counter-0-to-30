@@ -59,4 +59,4 @@ The decoder ICs activate the required display segments. The counter updates ever
 - Embedded systems demonstrations
 
 ## Author
-Add your name here.
+D.Ramu
